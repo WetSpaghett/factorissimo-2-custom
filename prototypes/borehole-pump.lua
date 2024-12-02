@@ -7,7 +7,7 @@ if mods.pypetroleumhandling then return end
 local hit_effects = require("__base__.prototypes.entity.hit-effects")
 local sounds = require("__base__.prototypes.entity.sounds")
 
-local F = "__factorissimo-2-notnotmelon__"
+local F = "__factorissimo-3-wetspaghett-version__"
 local pf = "p-q-"
 
 data:extend {{
