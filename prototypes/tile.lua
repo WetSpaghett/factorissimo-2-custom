@@ -8,7 +8,7 @@ local concrete_vehicle_speed_modifier = data.raw["tile"]["concrete"].vehicle_fri
 local concrete_driving_sound = table.deepcopy(data.raw["tile"]["concrete"].driving_sound)
 local concrete_tile_build_sounds = table.deepcopy(data.raw["tile"]["concrete"].build_sound)
 
-local F = "__factorissimo-2-notnotmelon__"
+local F = "__factorissimo-3-wetspaghett-version__"
 local alt_graphics = settings.startup["Factorissimo2-alt-graphics"].value
 local no_tile_transitions = settings.startup["Factorissimo2-disable-new-tile-effects"].value
 
@@ -30,7 +30,7 @@ local function tile_transitions(tile_variants)
 			background_layer_group = "zero",
 			offset_background_layer_by_tile_layer = true,
 
-			spritesheet = "__factorissimo-2-notnotmelon__/graphics/tile/out-of-map-transition.png",
+			spritesheet = F .. "/graphics/tile/out-of-map-transition.png",
 			layout = tile_spritesheet_layout.transition_4_4_8_1_1,
 			overlay_enabled = false
 		}
