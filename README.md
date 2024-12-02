@@ -1,4 +1,3 @@
-[![](https://img.shields.io/badge/dynamic/json?color=orange&label=Factorio&query=downloads_count&suffix=%20downloads&url=https%3A%2F%2Fmods.factorio.com%2Fapi%2Fmods%2Ffactorissimo-2-notnotmelon&style=for-the-badge)](https://mods.factorio.com/mod/factorissimo-2-notnotmelon) [![](https://img.shields.io/badge/Discord-Community-blue?style=for-the-badge)](https://discord.gg/xRYEZYz5WR) [![](https://img.shields.io/github/issues/notnotmelon/factorissimo-2-notnotmelon?label=Bug%20Reports&style=for-the-badge)](https://github.com/notnotmelon/factorissimo-2-notnotmelon/issues) [![](https://img.shields.io/github/issues-pr/notnotmelon/factorissimo-2-notnotmelon?label=Pull%20Requests&style=for-the-badge)](https://github.com/notnotmelon/factorissimo-2-notnotmelon/pulls)
 
 ## Factorissimo 3
 
@@ -9,8 +8,6 @@
     - Z
 
 Factorissimo is a mod about putting your factory inside buildings, and then putting those buildings inside other buildings.
-
-Help translate this mod on [GitHub](https://github.com/notnotmelon/factorissimo-2-notnotmelon/pulls)  
 Also check out the [Space Exploration](https://mods.factorio.com/mod/space-factorissimo-updated) extension for this mod.  
 This mod supports [Factorio Maps](https://youtu.be/zDkEtZGG0IQ)  
 
