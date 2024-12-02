@@ -1,9 +1,9 @@
 {
   "name": "factorissimo-3-wetspaghett-version",
   "version": "3.6.6",
-  "title": "Factorissimo 3",
-  "author": "MagmaMcFry, notnotmelon",
-  "homepage": "https://github.com/notnotmelon/factorissimo-2-notnotmelon",
+  "title": "Factorissimo 3 Wetspaghett's Unofficial Patch",
+  "author": "MagmaMcFry, notnotmelon, WetSpaghett",
+  "homepage": "https://github.com/WetSpaghett/factorissimo-2-custom",
   "description": "Factorissimo adds factory buildings to Factorio. Place them down, walk in, build your factories inside! Now updated for space age!",
   "factorio_version": "2.0",
   "dependencies": [
