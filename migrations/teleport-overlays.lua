@@ -1,6 +1,8 @@
 remote_api = remote_api or {}
 
-require "__factorissimo-2-notnotmelon__.script.layout"
+local F = "__factorissimo-3-wetspaghett-version__"
+
+require F .. ".script.layout"
 Layout.init()
 
 for _, factory in pairs(storage.factories) do
