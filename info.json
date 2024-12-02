@@ -4,7 +4,7 @@
   "title": "Factorissimo 3 Wetspaghett's Unofficial Patch",
   "author": "MagmaMcFry, notnotmelon, WetSpaghett",
   "homepage": "https://github.com/WetSpaghett/factorissimo-2-custom",
-  "description": "Factorissimo adds factory buildings to Factorio. Place them down, walk in, build your factories inside! Now updated for space age!",
+  "description": "Factorissimo adds factory buildings to Factorio. Place them down, walk in, build your factories inside! Now updated for space age! This version removes surface conditions for Yumako and Jellystem which were added by Factorissimo, because they stopped me from breaking the game :P",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.12",
