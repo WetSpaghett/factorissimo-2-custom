@@ -1,5 +1,7 @@
 local entities_to_extend = {}
 
+local F = "__factorissimo-3-wetspaghett-version__"
+
 local function downscale(picture)
     if not picture then return end
 
@@ -138,7 +140,7 @@ roboport.logistics_radius = 2
 roboport.construction_radius = 64
 roboport.robot_slots_count = 0
 roboport.material_slots_count = 1
-roboport.icon = "__factorissimo-2-notnotmelon__/graphics/icon/construction-chest.png"
+roboport.icon = F .. "/graphics/icon/construction-chest.png"
 roboport.icon_size = 64
 roboport.hidden = true
 roboport.radar_range = 0
