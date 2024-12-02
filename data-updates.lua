@@ -4,7 +4,7 @@ require "prototypes.factory-pumps"
 require "prototypes.quality-tooltips"
 require "script.roboport.utility-constants"
 
-local F = "__factorissimo-2-notnotmelon__"
+local F = "__factorissimo-3-wetspaghett-version__"
 
 local function blank()
 	return {
