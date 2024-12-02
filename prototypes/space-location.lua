@@ -1,3 +1,5 @@
+local F = "__factorissimo-3-wetspaghett-version__"
+
 -- generate a surface prototype for the personal roboport travel surface. see travel.lua for more information
 data:extend {{
     type = "planet",
@@ -49,7 +51,7 @@ local function generate_factory_floor_planet_icons(planet)
 
     -- add a factory icon to the bottom right corner
     table.insert(icons, {
-        icon = "__factorissimo-2-notnotmelon__/graphics/technology/factory-architecture-1.png",
+        icon = F .. "/graphics/technology/factory-architecture-1.png",
         icon_size = 128,
         shift = {8, 8},
         scale = 0.5
@@ -139,7 +141,7 @@ for _, planet in pairs(data.raw.planet) do
     factory_floor.surface_properties["ceiling"] = 0
     factory_floor.magnitude = (factory_floor.magnitude or 1) / 2
     factory_floor.starmap_icons = nil
-    factory_floor.starmap_icon = "__factorissimo-2-notnotmelon__/graphics/starmap/factory-floor-" .. math.floor((planet.orientation or 0) * 64 + 32) % 64 .. ".png"
+    factory_floor.starmap_icon = F .. "/graphics/starmap/factory-floor-" .. math.floor((planet.orientation or 0) * 64 + 32) % 64 .. ".png"
     factory_floor.icon = nil
     factory_floor.icon_size = 64
     factory_floor.icons = generate_factory_floor_planet_icons(planet)
